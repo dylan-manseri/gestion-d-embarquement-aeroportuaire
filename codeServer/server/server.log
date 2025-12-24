@@ -1,0 +1,1212 @@
+2025-11-30 16:48:57 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 16:48:57 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 16:50:20 [INFO] Client connecté
+2025-11-30 16:50:20 [INFO] HI <-- Client 
+2025-11-30 16:50:20 [INFO] Serveur --> HI 27
+2025-11-30 16:50:21 [INFO] WANT <-- Client 
+2025-11-30 16:50:23 [INFO] Serveur --> 16
+2025-11-30 16:50:24 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 16:50:24 [INFO] Serveur --> 25
+2025-11-30 16:50:25 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 16:50:25 [INFO] Serveur --> 270
+2025-11-30 16:50:26 [INFO] QUIT <-- Client 
+2025-11-30 16:50:26 [INFO] Serveur --> BYE
+2025-11-30 16:50:26 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 16:50:37 [INFO] Client connecté
+2025-11-30 16:50:37 [INFO] HI <-- Client 
+2025-11-30 16:50:37 [INFO] Serveur --> HI 27
+2025-11-30 16:50:38 [INFO] WANT <-- Client 
+2025-11-30 16:50:38 [INFO] Serveur --> 16
+2025-11-30 16:50:39 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 16:50:39 [INFO] Serveur --> 25
+2025-11-30 16:50:40 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 16:50:40 [INFO] Serveur --> 270
+2025-11-30 16:50:41 [INFO] QUIT <-- Client 
+2025-11-30 16:50:41 [INFO] Serveur --> BYE
+2025-11-30 16:50:41 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:02:26 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:02:26 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:02:29 [INFO] Client connecté
+2025-11-30 17:02:29 [INFO] HI <-- Client 
+2025-11-30 17:02:29 [INFO] Serveur --> HI 27
+2025-11-30 17:02:30 [INFO] WANT <-- Client 
+2025-11-30 17:02:30 [INFO] Serveur --> 16
+2025-11-30 17:02:31 [INFO] Serveur --> BYE 67
+2025-11-30 17:02:31 [SEVERE] ERREUR PHASE 2 : Anomalie de protocole, l'échange ne s'est pas terminé comme prévue
+2025-11-30 17:02:31 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:04:28 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:04:28 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:05:22 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:05:22 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:05:27 [INFO] Client connecté
+2025-11-30 17:05:27 [INFO] HI <-- Client 
+2025-11-30 17:05:27 [INFO] Serveur --> HI 27
+2025-11-30 17:05:28 [INFO] WANT <-- Client 
+2025-11-30 17:05:29 [INFO] Serveur --> 16
+2025-11-30 17:05:30 [INFO] INFO:LH9101 RESS000033 <-- Client
+2025-11-30 17:05:30 [SEVERE] ERREUR PHASE 2 : RESS000033 n'est pas un argument valide !
+2025-11-30 17:05:30 [INFO] Serveur --> BYE 77
+2025-11-30 17:05:30 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:06:21 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:06:21 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:06:23 [INFO] Client connecté
+2025-11-30 17:06:23 [INFO] HI <-- Client 
+2025-11-30 17:06:23 [INFO] Serveur --> HI 27
+2025-11-30 17:06:24 [INFO] WANT <-- Client 
+2025-11-30 17:06:24 [INFO] Serveur --> 16
+2025-11-30 17:06:25 [INFO] INFO:LH9101 RESS000033 <-- Client
+2025-11-30 17:06:25 [SEVERE] ERREUR PHASE 2 : RESS000033 n'est pas un argument valide !
+2025-11-30 17:06:25 [INFO] Serveur --> BYE 77
+2025-11-30 17:06:25 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:18:24 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:18:24 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:18:28 [INFO] Client connecté
+2025-11-30 17:18:28 [INFO] HI <-- Client 
+2025-11-30 17:18:28 [INFO] Serveur --> HI 27
+2025-11-30 17:18:29 [INFO] WANT <-- Client 
+2025-11-30 17:18:30 [INFO] Serveur --> 16
+2025-11-30 17:18:31 [SEVERE] ERREUR PHASE 2 : Un message de taille superieur à 256 n'est pas un argument valide !
+2025-11-30 17:18:31 [INFO] Serveur --> BYE 77
+2025-11-30 17:18:31 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:19:00 [INFO] Client connecté
+2025-11-30 17:19:00 [INFO] HI <-- Client 
+2025-11-30 17:19:00 [INFO] Serveur --> HI 27
+2025-11-30 17:19:01 [INFO] WANT <-- Client 
+2025-11-30 17:19:01 [INFO] Serveur --> 16
+2025-11-30 17:19:02 [INFO] INFO:LH9101 RESS00003 <-- Client
+2025-11-30 17:19:02 [SEVERE] ERREUR PHASE 2 : RESS00003 n'est pas un argument valide !
+2025-11-30 17:19:02 [INFO] Serveur --> BYE 77
+2025-11-30 17:19:02 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:21:11 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:21:11 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:21:13 [INFO] Client connecté
+2025-11-30 17:21:13 [INFO] HI <-- Client 
+2025-11-30 17:21:13 [INFO] Serveur --> HI 27
+2025-11-30 17:21:14 [SEVERE] ERREUR PHASE 1 : Un message de taille superieur à 256 n'est pas un argument valide !
+2025-11-30 17:21:14 [INFO] Serveur --> BYE 77
+2025-11-30 17:21:14 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:21:38 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:21:38 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:21:42 [INFO] Client connecté
+2025-11-30 17:21:42 [INFO] HI <-- Client 
+2025-11-30 17:21:42 [INFO] Serveur --> HI 27
+2025-11-30 17:21:43 [SEVERE] ERREUR PHASE 1 : Un message de taille superieur à 256 n'est pas un argument valide !
+2025-11-30 17:21:43 [INFO] Serveur --> BYE 77
+2025-11-30 17:21:43 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:22:25 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:22:25 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:22:27 [INFO] Client connecté
+2025-11-30 17:22:27 [INFO] HI <-- Client 
+2025-11-30 17:22:27 [INFO] Serveur --> HI 27
+2025-11-30 17:22:28 [SEVERE] ERREUR PHASE 1 : Un message de taille superieur à 256 n'est pas un argument valide !
+2025-11-30 17:22:28 [INFO] Serveur --> BYE 77
+2025-11-30 17:22:28 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:22:54 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:22:54 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:22:55 [INFO] Client connecté
+2025-11-30 17:22:55 [INFO] HI <-- Client 
+2025-11-30 17:22:55 [INFO] Serveur --> HI 27
+2025-11-30 17:22:56 [INFO] WANT <-- Client 
+2025-11-30 17:22:56 [INFO] Serveur --> 16
+2025-11-30 17:22:57 [SEVERE] ERREUR PHASE 2 : Un message de taille superieur à 256 n'est pas un argument valide !
+2025-11-30 17:22:57 [INFO] Serveur --> BYE 77
+2025-11-30 17:22:57 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:23:10 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:23:10 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:23:11 [INFO] Client connecté
+2025-11-30 17:23:11 [INFO] HI <-- Client 
+2025-11-30 17:23:11 [INFO] Serveur --> HI 27
+2025-11-30 17:23:12 [INFO] WANT <-- Client 
+2025-11-30 17:23:12 [INFO] Serveur --> 16
+2025-11-30 17:23:13 [SEVERE] ERREUR PHASE 2 : Un message de taille superieur à 256 n'est pas un argument valide !
+2025-11-30 17:23:13 [INFO] Serveur --> BYE 77
+2025-11-30 17:23:13 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:24:07 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:24:07 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:24:08 [INFO] Client connecté
+2025-11-30 17:24:08 [INFO] HI <-- Client 
+2025-11-30 17:24:08 [INFO] Serveur --> HI 27
+2025-11-30 17:24:09 [INFO] WANT <-- Client 
+2025-11-30 17:24:11 [INFO] Serveur --> 16
+2025-11-30 17:24:12 [INFO] INFO:LH9101 RES00000003 <-- Client
+2025-11-30 17:24:12 [SEVERE] ERREUR PHASE 2 : RES00000003 n'est pas un argument valide !
+2025-11-30 17:24:12 [INFO] Serveur --> BYE 77
+2025-11-30 17:24:12 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:24:19 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:24:19 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:24:20 [INFO] Client connecté
+2025-11-30 17:24:20 [INFO] HI <-- Client 
+2025-11-30 17:24:20 [INFO] Serveur --> HI 27
+2025-11-30 17:24:21 [INFO] WANT <-- Client 
+2025-11-30 17:24:22 [INFO] Serveur --> 16
+2025-11-30 17:24:23 [INFO] INFO:LH9101 RES00000003 <-- Client
+2025-11-30 17:24:23 [SEVERE] ERREUR PHASE 2 : RES00000003 n'est pas un argument valide !
+2025-11-30 17:24:23 [INFO] Serveur --> BYE 77
+2025-11-30 17:24:23 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:27:30 [INFO] Client connecté
+2025-11-30 17:27:30 [INFO] HI <-- Client 
+2025-11-30 17:27:30 [INFO] Serveur --> HI 27
+2025-11-30 17:27:31 [INFO] WANT <-- Client 
+2025-11-30 17:27:31 [INFO] Serveur --> 16
+2025-11-30 17:27:32 [INFO] INFO:LH9101 RES00000003 <-- Client
+2025-11-30 17:27:32 [SEVERE] ERREUR PHASE 2 : RES00000003 n'est pas un argument valide !
+2025-11-30 17:27:32 [INFO] Serveur --> BYE 77
+2025-11-30 17:27:32 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:27:42 [INFO] Client connecté
+2025-11-30 17:27:42 [INFO] HI <-- Client 
+2025-11-30 17:27:42 [INFO] Serveur --> HI 27
+2025-11-30 17:27:43 [INFO] WANT <-- Client 
+2025-11-30 17:27:43 [INFO] Serveur --> 16
+2025-11-30 17:27:44 [INFO] INFO:LH9101 RES00000033 <-- Client
+2025-11-30 17:27:44 [SEVERE] ERREUR PHASE 2 : RES00000033 n'est pas un argument valide !
+2025-11-30 17:27:44 [INFO] Serveur --> BYE 77
+2025-11-30 17:27:44 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:28:40 [INFO] Client connecté
+2025-11-30 17:28:40 [INFO] HI <-- Client 
+2025-11-30 17:28:40 [INFO] Serveur --> HI 27
+2025-11-30 17:28:41 [INFO] WANT <-- Client 
+2025-11-30 17:28:41 [INFO] Serveur --> 16
+2025-11-30 17:28:42 [INFO] INFO:LH9101 RES000000003 <-- Client
+2025-11-30 17:28:42 [SEVERE] Mauvais vol ou res
+2025-11-30 17:28:42 [SEVERE] ERREUR PHASE 2 : La donnée indiqué est introuvable dans la base de donnée
+2025-11-30 17:28:42 [INFO] Serveur --> BYE 26
+2025-11-30 17:28:42 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:30:00 [INFO] Client connecté
+2025-11-30 17:30:00 [INFO] HI <-- Client 
+2025-11-30 17:30:00 [INFO] Serveur --> HI 27
+2025-11-30 17:30:01 [INFO] WANT <-- Client 
+2025-11-30 17:30:02 [INFO] Serveur --> 16
+2025-11-30 17:30:03 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 17:30:03 [SEVERE] ERREUR PHASE 2 : RES00003 n'est pas un argument valide !
+2025-11-30 17:30:03 [INFO] Serveur --> BYE 77
+2025-11-30 17:30:03 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:32:33 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:32:33 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:32:35 [INFO] Client connecté
+2025-11-30 17:32:35 [INFO] HI <-- Client 
+2025-11-30 17:32:35 [INFO] Serveur --> HI 27
+2025-11-30 17:32:36 [INFO] WANT <-- Client 
+2025-11-30 17:32:36 [INFO] Serveur --> 16
+2025-11-30 17:32:37 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 17:32:37 [SEVERE] ERREUR PHASE 2 : RES00003 n'est pas un argument valide !
+2025-11-30 17:32:37 [INFO] Serveur --> BYE 77
+2025-11-30 17:32:37 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:34:05 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:34:05 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:34:06 [INFO] Client connecté
+2025-11-30 17:34:06 [INFO] HI <-- Client 
+2025-11-30 17:34:06 [INFO] Serveur --> HI 27
+2025-11-30 17:34:07 [INFO] WANT <-- Client 
+2025-11-30 17:34:08 [INFO] Serveur --> 16
+2025-11-30 17:34:09 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 17:34:09 [SEVERE] ERREUR PHASE 2 : RES00003 n'est pas un argument valide !
+2025-11-30 17:34:09 [INFO] Serveur --> BYE 77
+2025-11-30 17:34:09 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:34:31 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:34:31 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:34:40 [INFO] Client connecté
+2025-11-30 17:35:07 [INFO] HI <-- Client 
+2025-11-30 17:35:07 [INFO] Serveur --> HI 27
+2025-11-30 17:35:07 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 17:35:07 [INFO] Serveur --> BYE 79
+2025-11-30 17:35:07 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:35:08 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:35:08 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:35:09 [INFO] Client connecté
+2025-11-30 17:35:14 [INFO] HI <-- Client 
+2025-11-30 17:35:25 [INFO] Serveur --> HI 27
+2025-11-30 17:35:25 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 17:35:25 [INFO] Serveur --> BYE 79
+2025-11-30 17:35:25 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:35:38 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:35:38 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:35:39 [INFO] Client connecté
+2025-11-30 17:35:39 [INFO] HI <-- Client 
+2025-11-30 17:35:39 [INFO] Serveur --> HI 27
+2025-11-30 17:35:40 [INFO] WANT <-- Client 
+2025-11-30 17:35:41 [INFO] Serveur --> 16
+2025-11-30 17:35:42 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 17:35:42 [SEVERE] ERREUR PHASE 2 : RES00003 n'est pas un argument valide !
+2025-11-30 17:35:42 [INFO] Serveur --> BYE 77
+2025-11-30 17:35:42 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:36:07 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:36:07 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:36:17 [INFO] Client connecté
+2025-11-30 17:36:17 [INFO] HI <-- Client 
+2025-11-30 17:36:17 [INFO] Serveur --> HI 27
+2025-11-30 17:36:18 [INFO] WANT <-- Client 
+2025-11-30 17:36:18 [INFO] Serveur --> 16
+2025-11-30 17:36:19 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 17:36:19 [SEVERE] ERREUR PHASE 2 : RES00003 n'est pas un argument valide !
+2025-11-30 17:36:19 [INFO] Serveur --> BYE 77
+2025-11-30 17:36:19 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:36:37 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:36:37 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:36:40 [INFO] Client connecté
+2025-11-30 17:37:04 [INFO] HI <-- Client 
+2025-11-30 17:37:04 [INFO] Serveur --> HI 27
+2025-11-30 17:37:07 [INFO] WANT <-- Client 
+2025-11-30 17:37:21 [INFO] Serveur --> 16
+2025-11-30 17:37:29 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 17:37:47 [SEVERE] ERREUR PHASE 2 : RES00003 n'est pas un argument valide !
+2025-11-30 17:38:15 [INFO] Serveur --> BYE 77
+2025-11-30 17:38:15 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:38:16 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:38:16 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:38:18 [INFO] Client connecté
+2025-11-30 17:38:22 [INFO] HI <-- Client 
+2025-11-30 17:38:22 [INFO] Serveur --> HI 27
+2025-11-30 17:38:24 [INFO] WANT <-- Client 
+2025-11-30 17:38:29 [INFO] Serveur --> 16
+2025-11-30 17:38:32 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 17:39:29 [SEVERE] ERREUR PHASE 2 : RES00003 n'est pas un argument valide !
+2025-11-30 17:39:29 [INFO] Serveur --> BYE 77
+2025-11-30 17:39:29 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:39:35 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 17:39:35 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 17:39:35 [INFO] Client connecté
+2025-11-30 17:39:35 [INFO] HI <-- Client 
+2025-11-30 17:39:35 [INFO] Serveur --> HI 27
+2025-11-30 17:39:36 [INFO] WANT <-- Client 
+2025-11-30 17:39:37 [INFO] Serveur --> 16
+2025-11-30 17:39:38 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 17:39:38 [INFO] Serveur --> 25
+2025-11-30 17:39:39 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 17:39:39 [INFO] Serveur --> 270
+2025-11-30 17:39:40 [INFO] QUIT <-- Client 
+2025-11-30 17:39:40 [INFO] Serveur --> BYE
+2025-11-30 17:39:40 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:17:04 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 18:17:04 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:17:08 [INFO] Client connecté
+2025-11-30 18:17:08 [INFO] HI <-- Client 
+2025-11-30 18:17:08 [INFO] Serveur --> HI 27
+2025-11-30 18:17:09 [INFO] WANT <-- Client 
+2025-11-30 18:17:10 [INFO] Serveur --> 16
+2025-11-30 18:17:11 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 18:17:11 [SEVERE] ERREUR PHASE 2  : La connexion a été interrompu par le client
+2025-11-30 18:17:11 [INFO] Serveur --> BYE 79
+2025-11-30 18:17:11 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:18:12 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 18:18:12 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:18:25 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 18:18:25 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:18:28 [INFO] Client connecté
+2025-11-30 18:18:34 [INFO] HI <-- Client 
+2025-11-30 18:18:34 [INFO] Serveur --> HI 27
+2025-11-30 18:18:39 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 18:18:39 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:18:41 [INFO] Client connecté
+2025-11-30 18:18:41 [INFO] HI <-- Client 
+2025-11-30 18:18:41 [INFO] Serveur --> HI 27
+2025-11-30 18:18:42 [INFO] WANT <-- Client 
+2025-11-30 18:18:43 [INFO] Serveur --> 16
+2025-11-30 18:18:44 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 18:19:56 [SEVERE] ERREUR PHASE 2  : La connexion a été interrompu par le client
+2025-11-30 18:19:56 [INFO] Serveur --> BYE 79
+2025-11-30 18:19:56 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:19:57 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 18:19:57 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:19:59 [INFO] Client connecté
+2025-11-30 18:19:59 [INFO] HI <-- Client 
+2025-11-30 18:19:59 [INFO] Serveur --> HI 27
+2025-11-30 18:20:00 [INFO] WANT <-- Client 
+2025-11-30 18:20:01 [INFO] Serveur --> 16
+2025-11-30 18:20:02 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 18:21:36 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 18:21:36 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:21:39 [INFO] Client connecté
+2025-11-30 18:21:39 [INFO] HI <-- Client 
+2025-11-30 18:21:39 [INFO] Serveur --> HI 27
+2025-11-30 18:21:40 [INFO] WANT <-- Client 
+2025-11-30 18:21:40 [INFO] Serveur --> 16
+2025-11-30 18:21:41 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 18:21:41 [INFO] Serveur --> 25
+2025-11-30 18:21:42 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 18:21:42 [SEVERE] Cette reservation a déjà embarqué !
+2025-11-30 18:21:42 [SEVERE] ERREUR PHASE 3 : La donnée indiqué est introuvable dans la base de donnée
+2025-11-30 18:21:42 [INFO] Serveur --> BYE 250
+2025-11-30 18:21:42 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:22:47 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 18:22:47 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:22:49 [INFO] Client connecté
+2025-11-30 18:22:49 [INFO] HI <-- Client 
+2025-11-30 18:22:49 [INFO] Serveur --> HI 27
+2025-11-30 18:22:50 [INFO] WANT <-- Client 
+2025-11-30 18:22:52 [INFO] Serveur --> 16
+2025-11-30 18:22:53 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 18:22:53 [INFO] Serveur --> 25
+2025-11-30 18:22:54 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 18:22:54 [SEVERE] Cette reservation a déjà embarqué !
+2025-11-30 18:22:54 [SEVERE] ERREUR PHASE 3 : La donnée indiqué est introuvable dans la base de donnée
+2025-11-30 18:22:54 [INFO] Serveur --> BYE 250
+2025-11-30 18:22:54 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:23:19 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 18:23:20 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:23:22 [INFO] Client connecté
+2025-11-30 18:23:22 [INFO] HI <-- Client 
+2025-11-30 18:23:22 [INFO] Serveur --> HI 27
+2025-11-30 18:23:23 [INFO] WANT <-- Client 
+2025-11-30 18:23:23 [INFO] Serveur --> 16
+2025-11-30 18:23:24 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 18:24:29 [INFO] Serveur --> 25
+2025-11-30 18:24:32 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 18:24:54 [SEVERE] Cette reservation a déjà embarqué !
+2025-11-30 18:25:08 [SEVERE] ERREUR PHASE 3 : La donnée indiqué est introuvable dans la base de donnée
+2025-11-30 18:25:08 [INFO] Serveur --> BYE 250
+2025-11-30 18:25:08 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:36:04 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 18:36:04 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:36:10 [INFO] Client connecté
+2025-11-30 18:36:10 [INFO] HI <-- Client 
+2025-11-30 18:36:10 [INFO] Serveur --> HI 27
+2025-11-30 18:36:11 [INFO] WANT <-- Client 
+2025-11-30 18:36:11 [INFO] Serveur --> 16
+2025-11-30 18:36:12 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 18:36:13 [SEVERE] La date de depart a été depassé
+2025-11-30 18:36:13 [SEVERE] ERREUR PHASE 2 : La donnée indiqué est introuvable dans la base de donnée
+2025-11-30 18:36:13 [INFO] Serveur --> BYE 161
+2025-11-30 18:36:13 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:37:17 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 18:37:17 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:37:18 [INFO] Client connecté
+2025-11-30 18:37:18 [INFO] HI <-- Client 
+2025-11-30 18:37:18 [INFO] Serveur --> HI 27
+2025-11-30 18:37:19 [INFO] WANT <-- Client 
+2025-11-30 18:37:19 [INFO] Serveur --> 16
+2025-11-30 18:37:20 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 18:37:20 [SEVERE] ERREUR PHASE 2 : Une date dépassé n'est pas un argument valide !
+2025-11-30 18:37:20 [INFO] Serveur --> BYE 77
+2025-11-30 18:37:20 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:38:34 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 18:38:34 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:38:36 [INFO] Client connecté
+2025-11-30 18:38:36 [INFO] HI <-- Client 
+2025-11-30 18:38:36 [INFO] Serveur --> HI 27
+2025-11-30 18:38:37 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 18:38:37 [INFO] Serveur --> 16
+2025-11-30 18:38:38 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 18:38:38 [SEVERE] ERREUR PHASE 2 : Une date dépassé n'est pas un argument valide !
+2025-11-30 18:38:38 [INFO] Serveur --> BYE 77
+2025-11-30 18:38:38 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:40:13 [INFO] Client connecté
+2025-11-30 18:40:13 [INFO] HI <-- Client 
+2025-11-30 18:40:13 [INFO] Serveur --> HI 27
+2025-11-30 18:40:14 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 18:40:14 [INFO] Serveur --> 16
+2025-11-30 18:40:15 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 18:40:15 [INFO] Serveur --> 25
+2025-11-30 18:40:16 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 18:40:16 [SEVERE] ERREUR PHASE 3 : Une reservation ayant déjà embarqué  n'est pas un argument valide !
+2025-11-30 18:40:16 [INFO] Serveur --> BYE 77
+2025-11-30 18:40:16 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:41:09 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 18:41:09 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 18:41:14 [INFO] Client connecté
+2025-11-30 18:41:14 [INFO] HI <-- Client 
+2025-11-30 18:41:14 [INFO] Serveur --> HI 27
+2025-11-30 18:41:15 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 18:41:16 [INFO] Serveur --> 16
+2025-11-30 18:41:17 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 18:41:17 [INFO] Serveur --> 25
+2025-11-30 18:41:18 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 18:41:18 [INFO] Serveur --> 270
+2025-11-30 18:41:19 [INFO] QUIT <-- Client 
+2025-11-30 18:41:19 [INFO] Serveur --> BYE
+2025-11-30 18:41:19 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 19:19:20 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 19:19:20 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 19:20:37 [INFO] Client connecté
+2025-11-30 19:20:37 [INFO] HI <-- Client 
+2025-11-30 19:20:37 [INFO] Serveur --> HI 27
+2025-11-30 19:20:38 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 19:20:38 [INFO] Serveur --> 16
+2025-11-30 19:20:39 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 19:20:39 [INFO] Serveur --> 25
+2025-11-30 19:20:40 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 19:20:40 [INFO] Serveur --> 270
+2025-11-30 19:20:41 [INFO] QUIT <-- Client 
+2025-11-30 19:20:41 [INFO] Serveur --> BYE
+2025-11-30 19:20:41 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 19:21:13 [INFO] Client connecté
+2025-11-30 19:21:13 [INFO] HI <-- Client 
+2025-11-30 19:21:13 [INFO] Serveur --> HI 27
+2025-11-30 19:21:14 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 19:21:14 [INFO] Serveur --> 16
+2025-11-30 19:21:15 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 19:21:15 [INFO] Serveur --> 25
+2025-11-30 19:21:16 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 19:21:16 [SEVERE] ERREUR PHASE 3 : Une reservation ayant déjà embarqué  n'est pas un argument valide !
+2025-11-30 19:21:16 [INFO] Serveur --> BYE 77
+2025-11-30 19:21:16 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 19:59:03 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 19:59:03 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 19:59:07 [INFO] Client connecté
+2025-11-30 19:59:07 [INFO] HI <-- Client 
+2025-11-30 19:59:07 [INFO] Serveur --> HI 27
+2025-11-30 19:59:08 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 19:59:09 [INFO] Serveur --> 16
+2025-11-30 19:59:09 [INFO] Serveur --> BYE 67
+2025-11-30 19:59:09 [SEVERE] ERREUR PHASE 2 : Anomalie de protocole, l'échange ne s'est pas terminé comme prévue
+2025-11-30 19:59:09 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 21:26:13 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 21:26:13 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 21:26:15 [INFO] Client connecté
+2025-11-30 21:26:15 [INFO] HI <-- Client 
+2025-11-30 21:26:15 [INFO] Serveur --> HI 27
+2025-11-30 21:26:16 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 21:26:17 [INFO] Serveur --> 16
+2025-11-30 21:26:18 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 21:26:18 [INFO] Serveur --> 25
+2025-11-30 21:26:19 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 21:26:19 [INFO] Serveur --> 270
+2025-11-30 21:26:20 [INFO] QUIT <-- Client 
+2025-11-30 21:26:20 [INFO] Serveur --> BYE
+2025-11-30 21:26:20 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 21:26:24 [INFO] Client connecté
+2025-11-30 21:26:24 [INFO] HI <-- Client 
+2025-11-30 21:26:24 [INFO] Serveur --> HI 27
+2025-11-30 21:26:25 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 21:26:25 [INFO] Serveur --> 16
+2025-11-30 21:26:26 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 21:26:26 [INFO] Serveur --> 25
+2025-11-30 21:26:27 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 21:26:27 [SEVERE] ERREUR PHASE 3 : Une reservation ayant déjà embarqué  n'est pas un argument valide !
+2025-11-30 21:26:27 [INFO] Serveur --> BYE 77
+2025-11-30 21:26:27 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:37:44 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 22:37:44 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:38:12 [INFO] Client connecté
+2025-11-30 22:38:12 [INFO] HI <-- Client 
+2025-11-30 22:38:12 [INFO] Serveur --> HI 27
+2025-11-30 22:38:13 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:38:13 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 22:38:13 [INFO] Serveur --> BYE 79
+2025-11-30 22:38:13 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:39:09 [INFO] Client connecté
+2025-11-30 22:39:09 [INFO] HI <-- Client 
+2025-11-30 22:39:09 [INFO] Serveur --> HI 27
+2025-11-30 22:39:10 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:39:10 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 22:39:10 [INFO] Serveur --> BYE 79
+2025-11-30 22:39:10 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:40:15 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 22:40:15 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:40:25 [INFO] Client connecté
+2025-11-30 22:40:25 [INFO] HI <-- Client 
+2025-11-30 22:40:25 [INFO] Serveur --> HI 27
+2025-11-30 22:40:26 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:40:26 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 22:40:26 [INFO] Serveur --> BYE 79
+2025-11-30 22:40:26 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:41:17 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 22:41:17 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:41:20 [INFO] Client connecté
+2025-11-30 22:41:20 [INFO] HI <-- Client 
+2025-11-30 22:41:20 [INFO] Serveur --> HI 27
+2025-11-30 22:41:21 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:41:21 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 22:41:21 [INFO] Serveur --> BYE 79
+2025-11-30 22:41:21 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:46:03 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 22:46:03 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:46:17 [INFO] Client connecté
+2025-11-30 22:46:20 [INFO] HI <-- Client 
+2025-11-30 22:46:21 [INFO] Serveur --> HI 27
+2025-11-30 22:46:26 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:47:01 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 22:47:01 [INFO] Serveur --> BYE 79
+2025-11-30 22:47:01 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:47:05 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 22:47:05 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:47:06 [INFO] Client connecté
+2025-11-30 22:47:10 [INFO] HI <-- Client 
+2025-11-30 22:47:11 [INFO] Serveur --> HI 27
+2025-11-30 22:47:13 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:47:31 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 22:47:31 [INFO] Serveur --> BYE 79
+2025-11-30 22:47:36 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:47:37 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 22:47:37 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:47:38 [INFO] Client connecté
+2025-11-30 22:47:41 [INFO] HI <-- Client 
+2025-11-30 22:47:42 [INFO] Serveur --> HI 27
+2025-11-30 22:47:44 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:47:58 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 22:47:58 [INFO] Serveur --> BYE 79
+2025-11-30 22:47:58 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:48:01 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 22:48:01 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:48:03 [INFO] Client connecté
+2025-11-30 22:48:05 [INFO] HI <-- Client 
+2025-11-30 22:48:05 [INFO] Serveur --> HI 27
+2025-11-30 22:48:07 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:48:22 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 22:48:22 [INFO] Serveur --> BYE 79
+2025-11-30 22:48:22 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:52:56 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 22:52:56 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:53:05 [INFO] Client connecté
+2025-11-30 22:53:05 [INFO] HI <-- Client 
+2025-11-30 22:53:05 [INFO] Serveur --> HI 27
+2025-11-30 22:53:06 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:53:06 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 22:53:06 [INFO] Serveur --> BYE 79
+2025-11-30 22:53:06 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:54:00 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 22:54:00 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:54:07 [INFO] Client connecté
+2025-11-30 22:54:07 [INFO] HI <-- Client 
+2025-11-30 22:54:07 [INFO] Serveur --> HI 27
+2025-11-30 22:54:08 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:54:08 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 22:54:08 [INFO] Serveur --> BYE 79
+2025-11-30 22:54:08 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:54:52 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 22:54:52 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:54:54 [INFO] Client connecté
+2025-11-30 22:54:54 [INFO] HI <-- Client 
+2025-11-30 22:54:54 [INFO] Serveur --> HI 27
+2025-11-30 22:54:55 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:54:55 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 22:54:55 [INFO] Serveur --> BYE 79
+2025-11-30 22:54:55 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:57:23 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 22:57:23 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:57:26 [INFO] Client connecté
+2025-11-30 22:57:26 [INFO] HI <-- Client 
+2025-11-30 22:57:26 [INFO] Serveur --> HI 27
+2025-11-30 22:57:27 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:57:27 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-11-30 22:57:27 [INFO] Serveur --> BYE 79
+2025-11-30 22:57:27 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:59:16 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 22:59:16 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 22:59:18 [INFO] Client connecté
+2025-11-30 22:59:18 [INFO] HI <-- Client 
+2025-11-30 22:59:18 [INFO] Serveur --> HI 27
+2025-11-30 22:59:19 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 22:59:21 [INFO] Serveur --> 16
+2025-11-30 22:59:22 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-11-30 22:59:22 [INFO] Serveur --> 25
+2025-11-30 22:59:23 [INFO] PASS:PASS00000003 <-- Client
+2025-11-30 22:59:23 [SEVERE] ERREUR PHASE 3 : Une reservation ayant déjà embarqué  n'est pas un argument valide !
+2025-11-30 22:59:23 [INFO] Serveur --> BYE 77
+2025-11-30 22:59:23 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 23:01:39 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-11-30 23:01:39 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 23:01:42 [INFO] Client connecté
+2025-11-30 23:01:42 [INFO] HI <-- Client 
+2025-11-30 23:01:42 [INFO] Serveur --> HI 27
+2025-11-30 23:01:43 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 23:01:44 [INFO] Serveur --> 16
+2025-11-30 23:01:45 [INFO] INFO:LH9101 RES0000 <-- Client
+2025-11-30 23:01:45 [SEVERE] ERREUR PHASE 2 : RES0000 n'est pas un argument valide !
+2025-11-30 23:01:45 [INFO] Serveur --> BYE 77
+2025-11-30 23:01:45 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 23:02:35 [INFO] Client connecté
+2025-11-30 23:02:35 [INFO] HI <-- Client 
+2025-11-30 23:02:35 [INFO] Serveur --> HI 27
+2025-11-30 23:02:36 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 23:02:36 [INFO] Serveur --> 16
+2025-11-30 23:02:37 [INFO] INFO:LH9101 RES0000 <-- Client
+2025-11-30 23:02:37 [SEVERE] ERREUR PHASE 2 : RES0000 n'est pas un argument valide !
+2025-11-30 23:02:37 [INFO] Serveur --> BYE 77
+2025-11-30 23:02:37 [INFO] ----- Nouvelle session de connexion -----
+2025-11-30 23:02:56 [INFO] Client connecté
+2025-11-30 23:02:56 [INFO] HI <-- Client 
+2025-11-30 23:02:56 [INFO] Serveur --> HI 27
+2025-11-30 23:02:57 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-11-30 23:02:58 [INFO] Serveur --> 16
+2025-11-30 23:02:59 [INFO] INFO:LH9101 RES0000 <-- Client
+2025-11-30 23:02:59 [SEVERE] ERREUR PHASE 2 : RES0000 n'est pas un argument valide !
+2025-11-30 23:02:59 [INFO] Serveur --> BYE 77
+2025-11-30 23:02:59 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 11:47:37 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-12-03 12:13:50 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:14:07 [INFO] Client connecté
+2025-12-03 12:14:11 [INFO] HI <-- Client 
+2025-12-03 12:14:11 [INFO] Serveur --> HI 27
+2025-12-03 12:14:16 [SEVERE] ERREUR PHASE 1  : Le client a pris trop de temps à répondre.
+2025-12-03 12:14:16 [INFO] Serveur --> BYE 17
+2025-12-03 12:14:16 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:15:02 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:15:04 [INFO] Client connecté
+2025-12-03 12:15:07 [INFO] HI <-- Client 
+2025-12-03 12:15:07 [INFO] Serveur --> HI 27
+2025-12-03 12:15:12 [SEVERE] ERREUR PHASE 1  : Le client a pris trop de temps à répondre.
+2025-12-03 12:15:12 [INFO] Serveur --> BYE 17
+2025-12-03 12:15:12 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:34:08 [INFO] Client connecté
+2025-12-03 12:34:13 [SEVERE] ERREUR PHASE 0  : Le client a pris trop de temps à répondre.
+2025-12-03 12:34:13 [INFO] Serveur --> BYE 17
+2025-12-03 12:34:13 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:34:50 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:34:58 [INFO] Client connecté
+2025-12-03 12:35:05 [INFO] HI <-- Client 
+2025-12-03 12:35:05 [INFO] Serveur --> HI 27
+2025-12-03 12:35:09 [INFO] WANT:scan+SCAN000004 <-- Client 
+2025-12-03 12:35:19 [SEVERE] ERREUR PHASE 1  : Le client a pris trop de temps à répondre.
+2025-12-03 12:35:19 [INFO] Serveur --> BYE 17
+2025-12-03 12:35:19 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:35:37 [INFO] Client connecté
+2025-12-03 12:35:39 [INFO] HI <-- Client 
+2025-12-03 12:35:39 [INFO] Serveur --> HI 27
+2025-12-03 12:35:41 [INFO] WANT:scan+SCAN000004 <-- Client 
+2025-12-03 12:35:47 [INFO] INFO:LH9101+RES00003 <-- Client 
+2025-12-03 12:35:47 [SEVERE] ERREUR PHASE 1 : INFO n'est pas un argument valide !
+2025-12-03 12:35:47 [INFO] Serveur --> BYE 77
+2025-12-03 12:35:47 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:35:57 [INFO] Client connecté
+2025-12-03 12:35:58 [INFO] HI <-- Client 
+2025-12-03 12:35:58 [INFO] Serveur --> HI 27
+2025-12-03 12:36:00 [INFO] WANT:scan+SCAN000004 <-- Client 
+2025-12-03 12:36:02 [INFO] WANT:scan+SCAN000004 <-- Client 
+2025-12-03 12:36:04 [INFO] WANT:scan+SCAN000004 <-- Client 
+2025-12-03 12:36:04 [INFO]  <-- Client 
+2025-12-03 12:36:04 [SEVERE] ERREUR PHASE 1 :  n'est pas un argument valide !
+2025-12-03 12:36:04 [INFO] Serveur --> BYE 77
+2025-12-03 12:36:04 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:36:14 [INFO] Client connecté
+2025-12-03 12:36:16 [INFO] HI <-- Client 
+2025-12-03 12:36:16 [INFO] Serveur --> HI 27
+2025-12-03 12:36:19 [INFO] WANT:scan+SCAN000004 <-- Client 
+2025-12-03 12:36:19 [INFO]  <-- Client 
+2025-12-03 12:36:19 [SEVERE] ERREUR PHASE 1 :  n'est pas un argument valide !
+2025-12-03 12:36:19 [INFO] Serveur --> BYE 77
+2025-12-03 12:36:19 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:37:42 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:37:43 [INFO] Client connecté
+2025-12-03 12:37:46 [INFO] HI <-- Client 
+2025-12-03 12:37:46 [INFO] Serveur --> HI 27
+2025-12-03 12:37:47 [INFO] WANT:scan+SCAN000004 <-- Client 
+2025-12-03 12:37:50 [INFO]  <-- Client 
+2025-12-03 12:37:50 [SEVERE] ERREUR PHASE 1 :  n'est pas un argument valide !
+2025-12-03 12:37:50 [INFO] Serveur --> BYE 77
+2025-12-03 12:37:50 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:37:59 [INFO] Client connecté
+2025-12-03 12:38:01 [INFO] HI <-- Client 
+2025-12-03 12:38:01 [INFO] Serveur --> HI 27
+2025-12-03 12:38:04 [SEVERE] ERREUR PHASE 1 : Un message de taille superieur à 20 n'est pas un argument valide !
+2025-12-03 12:38:04 [INFO] Serveur --> BYE 77
+2025-12-03 12:38:04 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:39:03 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:39:05 [INFO] Client connecté
+2025-12-03 12:39:07 [INFO] HI <-- Client 
+2025-12-03 12:39:07 [INFO] Serveur --> HI 27
+2025-12-03 12:39:09 [INFO] WANT:scan+SCAN000004 <-- Client 
+2025-12-03 12:40:35 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:40:38 [INFO] Client connecté
+2025-12-03 12:40:40 [INFO] HI <-- Client 
+2025-12-03 12:40:40 [INFO] Serveur --> HI 27
+2025-12-03 12:40:44 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 12:40:44 [INFO] Serveur --> 16
+2025-12-03 12:40:54 [SEVERE] ERREUR PHASE 2  : Le client a pris trop de temps à répondre.
+2025-12-03 12:40:54 [INFO] Serveur --> BYE 17
+2025-12-03 12:40:54 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:41:13 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:41:24 [INFO] Client connecté
+2025-12-03 12:41:28 [INFO] HI <-- Client 
+2025-12-03 12:41:28 [INFO] Serveur --> HI 27
+2025-12-03 12:41:35 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 12:41:35 [INFO] Serveur --> 16
+2025-12-03 12:41:41 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-03 12:41:41 [SEVERE] ERREUR PHASE 2 : Une date dépassé n'est pas un argument valide !
+2025-12-03 12:41:41 [INFO] Serveur --> BYE 77
+2025-12-03 12:41:41 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:47:16 [INFO] Client connecté
+2025-12-03 12:47:20 [INFO] HI <-- Client 
+2025-12-03 12:47:20 [INFO] Serveur --> HI 27
+2025-12-03 12:47:25 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 12:47:26 [INFO] Serveur --> 16
+2025-12-03 12:47:31 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-03 12:47:31 [INFO] Serveur --> 25
+2025-12-03 12:47:38 [INFO] PASS:PASS00000003 <-- Client
+2025-12-03 12:47:38 [INFO] Serveur --> 270
+2025-12-03 12:47:45 [INFO] QUIT <-- Client 
+2025-12-03 12:47:45 [INFO] Serveur --> BYE
+2025-12-03 12:47:45 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:48:35 [INFO] Client connecté
+2025-12-03 12:48:39 [INFO] HI <-- Client 
+2025-12-03 12:48:39 [INFO] Serveur --> HI 27
+2025-12-03 12:48:43 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 12:48:43 [INFO] Serveur --> 16
+2025-12-03 12:48:50 [INFO] INFO:RES00005 AA6789 <-- Client
+2025-12-03 12:48:50 [SEVERE] ERREUR PHASE 2 : AA6789 n'est pas un argument valide !
+2025-12-03 12:48:50 [INFO] Serveur --> BYE 77
+2025-12-03 12:48:50 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:49:26 [INFO] Client connecté
+2025-12-03 12:49:30 [INFO] HI <-- Client 
+2025-12-03 12:49:30 [INFO] Serveur --> HI 27
+2025-12-03 12:49:31 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 12:49:31 [INFO] Serveur --> 16
+2025-12-03 12:49:33 [INFO] INFO:AA6789 RES00005 <-- Client
+2025-12-03 12:49:33 [SEVERE] ERREUR PHASE 2 : Une date dépassé n'est pas un argument valide !
+2025-12-03 12:49:33 [INFO] Serveur --> BYE 77
+2025-12-03 12:49:33 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:50:01 [INFO] Client connecté
+2025-12-03 12:50:07 [SEVERE] ERREUR PHASE 0  : La connexion a été interrompu par le client
+2025-12-03 12:50:07 [INFO] Serveur --> BYE 79
+2025-12-03 12:50:07 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:50:13 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:50:24 [INFO] Client connecté
+2025-12-03 12:50:34 [SEVERE] ERREUR PHASE 0  : Le client a pris trop de temps à répondre.
+2025-12-03 12:50:34 [INFO] Serveur --> BYE 17
+2025-12-03 12:50:34 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:51:20 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:51:31 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:51:46 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-12-03 12:53:13 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-12-03 12:53:13 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:54:24 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 12:54:44 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-12-03 12:54:44 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:01:36 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:01:42 [INFO] Client connecté
+2025-12-03 13:01:48 [INFO] HI <-- Client 
+2025-12-03 13:01:48 [INFO] Serveur --> HI 27
+2025-12-03 13:01:56 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 13:01:57 [INFO] Serveur --> 16
+2025-12-03 13:02:05 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-03 13:02:05 [INFO] Serveur --> 25
+2025-12-03 13:02:14 [INFO] PASS:PASS00000003 <-- Client
+2025-12-03 13:02:14 [SEVERE] ERREUR PHASE 3 : Une reservation ayant déjà embarqué  n'est pas un argument valide !
+2025-12-03 13:02:14 [INFO] Serveur --> BYE 77
+2025-12-03 13:02:14 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:02:50 [INFO] Client connecté
+2025-12-03 13:02:53 [INFO] HI <-- Client 
+2025-12-03 13:02:53 [INFO] Serveur --> HI 27
+2025-12-03 13:02:55 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 13:02:55 [INFO] Serveur --> 16
+2025-12-03 13:02:57 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-03 13:02:57 [INFO] Serveur --> 25
+2025-12-03 13:03:00 [INFO] PASS:PASS00000003 <-- Client
+2025-12-03 13:03:00 [INFO] Serveur --> 270
+2025-12-03 13:03:07 [SEVERE] ERREUR PHASE 4  : La connexion a été interrompu par le client
+2025-12-03 13:03:07 [INFO] Serveur --> BYE 79
+2025-12-03 13:03:07 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:03:13 [INFO] Client connecté
+2025-12-03 13:03:23 [SEVERE] ERREUR PHASE 0  : Le client a pris trop de temps à répondre.
+2025-12-03 13:03:23 [INFO] Serveur --> BYE 17
+2025-12-03 13:03:23 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:03:39 [INFO] Client connecté
+2025-12-03 13:03:41 [INFO] HI <-- Client 
+2025-12-03 13:03:41 [INFO] Serveur --> HI 27
+2025-12-03 13:03:43 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 13:03:43 [INFO] Serveur --> 16
+2025-12-03 13:03:44 [SEVERE] ERREUR PHASE 2  : La connexion a été interrompu par le client
+2025-12-03 13:03:44 [INFO] Serveur --> BYE 79
+2025-12-03 13:03:44 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:04:12 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-12-03 13:04:12 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:29:11 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-12-03 13:29:11 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:29:21 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:29:40 [INFO] Client connecté
+2025-12-03 13:29:44 [INFO] HI <-- Client 
+2025-12-03 13:29:44 [INFO] Serveur --> HI 27
+2025-12-03 13:29:51 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 13:29:53 [INFO] Serveur --> 16
+2025-12-03 13:29:59 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-03 13:29:59 [INFO] Serveur --> 25
+2025-12-03 13:30:08 [INFO] PASS:PASS00000003 <-- Client
+2025-12-03 13:30:08 [INFO] Serveur --> 270
+2025-12-03 13:30:13 [INFO] QUIT <-- Client 
+2025-12-03 13:30:13 [INFO] Serveur --> BYE
+2025-12-03 13:30:13 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:30:20 [INFO] Client connecté
+2025-12-03 13:30:25 [INFO] HI <-- Client 
+2025-12-03 13:30:25 [INFO] Serveur --> HI 27
+2025-12-03 13:30:35 [SEVERE] ERREUR PHASE 1  : Le client a pris trop de temps à répondre.
+2025-12-03 13:30:35 [INFO] Serveur --> BYE 17
+2025-12-03 13:30:35 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:30:49 [INFO] Client connecté
+2025-12-03 13:30:54 [INFO] HI <-- Client 
+2025-12-03 13:30:54 [INFO] Serveur --> HI 27
+2025-12-03 13:30:56 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-12-03 13:30:56 [INFO] Serveur --> BYE 79
+2025-12-03 13:30:56 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:31:07 [INFO] Client connecté
+2025-12-03 13:31:10 [INFO] HI <-- Client 
+2025-12-03 13:31:10 [INFO] Serveur --> HI 27
+2025-12-03 13:31:15 [SEVERE] ERREUR PHASE 1 : Un message de taille superieur à 20 n'est pas un argument valide !
+2025-12-03 13:31:15 [INFO] Serveur --> BYE 77
+2025-12-03 13:31:15 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:31:42 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-12-03 13:31:42 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:44:51 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:44:54 [INFO] Client connecté
+2025-12-03 13:44:59 [INFO] HI <-- Client 
+2025-12-03 13:44:59 [INFO] Serveur --> HI 27
+2025-12-03 13:45:06 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 13:45:06 [INFO] Serveur --> 16
+2025-12-03 13:45:15 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-03 13:45:15 [INFO] Serveur --> 25
+2025-12-03 13:45:21 [INFO] PASS:PASS00000003 <-- Client
+2025-12-03 13:45:21 [SEVERE] ERREUR PHASE 3 : Une reservation ayant déjà embarqué  n'est pas un argument valide !
+2025-12-03 13:45:21 [INFO] Serveur --> BYE 77
+2025-12-03 13:45:21 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:45:58 [INFO] Client connecté
+2025-12-03 13:46:04 [INFO] HI <-- Client 
+2025-12-03 13:46:04 [INFO] Serveur --> HI 27
+2025-12-03 13:46:05 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 13:46:05 [INFO] Serveur --> 16
+2025-12-03 13:46:11 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-03 13:46:11 [INFO] Serveur --> 25
+2025-12-03 13:46:18 [INFO] PASS:PASS00000003 <-- Client
+2025-12-03 13:46:18 [INFO] Serveur --> 270
+2025-12-03 13:46:24 [INFO] QUIT <-- Client 
+2025-12-03 13:46:24 [INFO] Serveur --> BYE
+2025-12-03 13:46:24 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:46:32 [INFO] Client connecté
+2025-12-03 13:46:34 [INFO] HI <-- Client 
+2025-12-03 13:46:34 [INFO] Serveur --> HI 27
+2025-12-03 13:46:44 [SEVERE] ERREUR PHASE 1  : Le client a pris trop de temps à répondre.
+2025-12-03 13:46:44 [INFO] Serveur --> BYE 17
+2025-12-03 13:46:44 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:46:57 [INFO] Client connecté
+2025-12-03 13:47:07 [SEVERE] ERREUR PHASE 0  : Le client a pris trop de temps à répondre.
+2025-12-03 13:47:07 [INFO] Serveur --> BYE 17
+2025-12-03 13:47:07 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:47:18 [INFO] Client connecté
+2025-12-03 13:47:22 [INFO] HI <-- Client 
+2025-12-03 13:47:22 [INFO] Serveur --> HI 27
+2025-12-03 13:47:24 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-12-03 13:47:24 [INFO] Serveur --> BYE 79
+2025-12-03 13:47:24 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 13:47:41 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-12-03 13:47:41 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 14:18:37 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 14:18:51 [INFO] Client connecté
+2025-12-03 14:19:00 [SEVERE] ERREUR PHASE 0  : La connexion a été interrompu par le client
+2025-12-03 14:19:00 [INFO] Serveur --> BYE 79
+2025-12-03 14:19:00 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 14:19:12 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 14:19:20 [INFO] Client connecté
+2025-12-03 14:19:24 [INFO] HI <-- Client 
+2025-12-03 14:19:24 [INFO] Serveur --> HI 27
+2025-12-03 14:19:28 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 14:19:30 [INFO] Serveur --> 16
+2025-12-03 14:19:34 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-03 14:19:34 [INFO] Serveur --> 25
+2025-12-03 14:19:38 [INFO] PASS:PASS00000003 <-- Client
+2025-12-03 14:19:38 [INFO] Serveur --> 270
+2025-12-03 14:19:43 [INFO] QUIT <-- Client 
+2025-12-03 14:19:43 [INFO] Serveur --> BYE
+2025-12-03 14:19:43 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 14:20:10 [INFO] Client connecté
+2025-12-03 14:20:13 [INFO] HI <-- Client 
+2025-12-03 14:20:13 [INFO] Serveur --> HI 27
+2025-12-03 14:20:23 [SEVERE] ERREUR PHASE 1  : Le client a pris trop de temps à répondre.
+2025-12-03 14:20:23 [INFO] Serveur --> BYE 17
+2025-12-03 14:20:23 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 14:21:41 [INFO] Client connecté
+2025-12-03 14:21:46 [INFO] HI <-- Client 
+2025-12-03 14:21:46 [INFO] Serveur --> HI 27
+2025-12-03 14:21:47 [SEVERE] ERREUR PHASE 1  : La connexion a été interrompu par le client
+2025-12-03 14:21:47 [INFO] Serveur --> BYE 79
+2025-12-03 14:21:47 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 14:22:47 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-12-03 14:22:47 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 14:23:56 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 14:24:03 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 14:24:10 [INFO] Client connecté
+2025-12-03 14:24:15 [INFO] HI <-- Client 
+2025-12-03 14:24:15 [INFO] Serveur --> HI 27
+2025-12-03 14:24:18 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 14:24:18 [INFO] Serveur --> 16
+2025-12-03 14:24:24 [INFO] WANTEZ <-- Client
+2025-12-03 14:24:24 [SEVERE] ERREUR PHASE 2 : WANTEZ n'est pas un argument valide !
+2025-12-03 14:24:24 [INFO] Serveur --> BYE 77
+2025-12-03 14:24:24 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 14:24:52 [INFO] ----- Nouvelle session de connexion -----
+2025-12-03 14:25:01 [INFO] Client connecté
+2025-12-03 14:25:05 [INFO] HI <-- Client 
+2025-12-03 14:25:05 [INFO] Serveur --> HI 27
+2025-12-03 14:25:06 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-03 14:25:07 [INFO] Serveur --> 16
+2025-12-03 14:25:09 [INFO] coucou <-- Client
+2025-12-03 14:25:09 [SEVERE] ERREUR PHASE 2 : coucou n'est pas un argument valide !
+2025-12-03 14:25:09 [INFO] Serveur --> BYE 77
+2025-12-03 14:25:09 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 10:45:15 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 10:51:37 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 10:52:00 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 10:52:20 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 10:54:23 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 10:54:55 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 10:55:44 [INFO] Client connecté
+2025-12-08 10:55:44 [INFO] HI <-- Client 
+2025-12-08 10:55:44 [INFO] Serveur --> HI 27
+2025-12-08 10:55:44 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 10:55:44 [INFO] Serveur --> 16
+2025-12-08 10:55:44 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 10:55:44 [INFO] Serveur --> 25
+2025-12-08 10:55:44 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 10:55:44 [INFO] Serveur --> 270
+2025-12-08 10:55:44 [INFO] QUIT <-- Client 
+2025-12-08 10:55:44 [INFO] Serveur --> BYE
+2025-12-08 10:55:44 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 10:55:50 [INFO] Client connecté
+2025-12-08 10:55:50 [INFO] HI <-- Client 
+2025-12-08 10:55:50 [INFO] Serveur --> HI 27
+2025-12-08 10:55:50 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 10:55:50 [INFO] Serveur --> 16
+2025-12-08 10:55:50 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 10:55:50 [INFO] Serveur --> 25
+2025-12-08 10:55:50 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 10:55:50 [SEVERE] ERREUR PHASE 3 : Une reservation ayant déjà embarqué  n'est pas un argument valide !
+2025-12-08 10:55:50 [INFO] Serveur --> BYE 77
+2025-12-08 10:55:50 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:31:19 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:31:21 [INFO] Client connecté
+2025-12-08 11:31:24 [INFO] HI <-- Client 
+2025-12-08 11:31:24 [INFO] Serveur --> HI 27
+2025-12-08 11:31:27 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 11:31:27 [INFO] Serveur --> 16
+2025-12-08 11:31:29 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 11:31:29 [INFO] Serveur --> 25
+2025-12-08 11:31:31 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 11:31:32 [INFO] Serveur --> 270
+2025-12-08 11:31:34 [INFO] QUIT <-- Client 
+2025-12-08 11:31:34 [INFO] Serveur --> BYE
+2025-12-08 11:31:34 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:42:08 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:42:11 [INFO] Client connecté
+2025-12-08 11:42:18 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 11:42:22 [SEVERE] ERREUR PHASE 0  : La connexion a été interrompu par le client
+2025-12-08 11:42:22 [INFO] Serveur --> BYE 79
+2025-12-08 11:42:22 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:43:14 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:43:15 [INFO] Client connecté
+2025-12-08 11:43:15 [INFO] HI <-- Client 
+2025-12-08 11:43:15 [INFO] Serveur --> HI 27
+2025-12-08 11:43:15 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 11:43:16 [INFO] Serveur --> 16
+2025-12-08 11:43:16 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 11:43:16 [INFO] Serveur --> 25
+2025-12-08 11:43:16 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 11:43:16 [INFO] Serveur --> 270
+2025-12-08 11:43:16 [INFO] QUIT <-- Client 
+2025-12-08 11:43:16 [INFO] Serveur --> BYE
+2025-12-08 11:43:16 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:44:59 [INFO] Client connecté
+2025-12-08 11:44:59 [INFO] HI <-- Client 
+2025-12-08 11:44:59 [INFO] Serveur --> HI 27
+2025-12-08 11:44:59 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 11:44:59 [INFO] Serveur --> 16
+2025-12-08 11:44:59 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 11:44:59 [INFO] Serveur --> 25
+2025-12-08 11:44:59 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 11:44:59 [SEVERE] ERREUR PHASE 3 : Une reservation ayant déjà embarqué  n'est pas un argument valide !
+2025-12-08 11:44:59 [INFO] Serveur --> BYE 77
+2025-12-08 11:44:59 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:45:18 [INFO] Client connecté
+2025-12-08 11:45:18 [INFO] HI <-- Client 
+2025-12-08 11:45:18 [INFO] Serveur --> HI 27
+2025-12-08 11:45:18 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 11:45:18 [INFO] Serveur --> 16
+2025-12-08 11:45:18 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 11:45:18 [INFO] Serveur --> 25
+2025-12-08 11:45:18 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 11:45:18 [INFO] Serveur --> 270
+2025-12-08 11:45:18 [INFO] QUIT <-- Client 
+2025-12-08 11:45:18 [INFO] Serveur --> BYE
+2025-12-08 11:45:18 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:47:24 [INFO] Client connecté
+2025-12-08 11:47:24 [INFO] HI <-- Client 
+2025-12-08 11:47:24 [INFO] Serveur --> HI 27
+2025-12-08 11:47:24 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 11:47:24 [INFO] Serveur --> 16
+2025-12-08 11:47:24 [SEVERE] ERREUR PHASE 2 : Un message de taille superieur à 256 n'est pas un argument valide !
+2025-12-08 11:47:24 [INFO] Serveur --> BYE 77
+2025-12-08 11:47:24 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:47:49 [INFO] Client connecté
+2025-12-08 11:47:49 [INFO] HI <-- Client 
+2025-12-08 11:47:49 [INFO] Serveur --> HI 27
+2025-12-08 11:47:49 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 11:47:49 [INFO] Serveur --> 16
+2025-12-08 11:47:49 [INFO] INFO:LH9101 RES0 <-- Client
+2025-12-08 11:47:49 [SEVERE] ERREUR PHASE 2 : RES0 n'est pas un argument valide !
+2025-12-08 11:47:49 [INFO] Serveur --> BYE 77
+2025-12-08 11:47:49 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:48:14 [INFO] Client connecté
+2025-12-08 11:48:14 [INFO] HI <-- Client 
+2025-12-08 11:48:14 [INFO] Serveur --> HI 27
+2025-12-08 11:48:14 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 11:48:14 [INFO] Serveur --> 16
+2025-12-08 11:48:14 [INFO] INFO:LH9101 RES00009 <-- Client
+2025-12-08 11:48:14 [INFO] Serveur --> 25
+2025-12-08 11:48:14 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 11:48:14 [INFO] Serveur --> 270
+2025-12-08 11:48:14 [INFO] QUIT <-- Client 
+2025-12-08 11:48:14 [INFO] Serveur --> BYE
+2025-12-08 11:48:14 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:49:20 [INFO] Client connecté
+2025-12-08 11:49:20 [INFO] HI <-- Client 
+2025-12-08 11:49:20 [INFO] Serveur --> HI 27
+2025-12-08 11:49:20 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 11:49:20 [INFO] Serveur --> 16
+2025-12-08 11:49:20 [INFO] INFO:LH9101 RES00009 <-- Client
+2025-12-08 11:49:20 [INFO] Serveur --> 25
+2025-12-08 11:49:20 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 11:49:20 [SEVERE] ERREUR PHASE 3 : Une reservation ayant déjà embarqué  n'est pas un argument valide !
+2025-12-08 11:49:20 [INFO] Serveur --> BYE 77
+2025-12-08 11:49:20 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:53:36 [INFO] Client connecté
+2025-12-08 11:53:36 [INFO] HI <-- Client 
+2025-12-08 11:53:36 [INFO] Serveur --> HI 27
+2025-12-08 11:53:36 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 11:53:36 [INFO] Serveur --> 16
+2025-12-08 11:53:36 [SEVERE] ERREUR PHASE 2 : Un message de taille superieur à 256 n'est pas un argument valide !
+2025-12-08 11:53:36 [INFO] Serveur --> BYE 77
+2025-12-08 11:53:36 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:56:27 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 11:56:28 [INFO] Client connecté
+2025-12-08 11:56:28 [INFO] HI <-- Client 
+2025-12-08 11:56:28 [INFO] Serveur --> HI 27
+2025-12-08 11:56:28 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 11:56:29 [INFO] Serveur --> 16
+2025-12-08 11:56:29 [SEVERE] ERREUR PHASE 2 : Un message de taille superieur à 20 n'est pas un argument valide !
+2025-12-08 11:56:29 [INFO] Serveur --> BYE 77
+2025-12-08 11:56:29 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:05:34 [INFO] Client connecté
+2025-12-08 12:05:34 [INFO] HI <-- Client 
+2025-12-08 12:05:34 [INFO] Serveur --> HI 27
+2025-12-08 12:05:34 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 12:05:34 [INFO] Serveur --> 16
+2025-12-08 12:05:34 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 12:05:34 [INFO] Serveur --> 25
+2025-12-08 12:05:34 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 12:05:34 [INFO] Serveur --> 270
+2025-12-08 12:05:34 [INFO] QUIT <-- Client 
+2025-12-08 12:05:34 [INFO] Serveur --> BYE
+2025-12-08 12:05:34 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:05:54 [INFO] Client connecté
+2025-12-08 12:05:59 [INFO] HI <-- Client 
+2025-12-08 12:05:59 [INFO] Serveur --> HI 27
+2025-12-08 12:06:01 [INFO] INFO:LH9101 RES00003 <-- Client 
+2025-12-08 12:06:01 [SEVERE] ERREUR PHASE 1 : INFO n'est pas un argument valide !
+2025-12-08 12:06:01 [INFO] Serveur --> BYE 77
+2025-12-08 12:06:01 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:06:09 [INFO] Client connecté
+2025-12-08 12:06:11 [INFO] HI <-- Client 
+2025-12-08 12:06:11 [INFO] Serveur --> HI 27
+2025-12-08 12:06:13 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 12:06:13 [INFO] Serveur --> 16
+2025-12-08 12:06:14 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 12:06:14 [INFO] Serveur --> 25
+2025-12-08 12:06:16 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 12:06:16 [INFO] Serveur --> 270
+2025-12-08 12:06:18 [INFO] QUIT <-- Client 
+2025-12-08 12:06:18 [INFO] Serveur --> BYE
+2025-12-08 12:06:18 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:17:55 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:17:57 [INFO] Client connecté
+2025-12-08 12:17:57 [INFO] HI <-- Client 
+2025-12-08 12:17:57 [INFO] Serveur --> HI 27
+2025-12-08 12:17:57 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 12:17:57 [INFO] Serveur --> 16
+2025-12-08 12:17:57 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 12:17:57 [INFO] Serveur --> 25
+2025-12-08 12:17:57 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 12:17:57 [INFO] Serveur --> 270
+2025-12-08 12:17:57 [INFO] QUIT <-- Client 
+2025-12-08 12:17:57 [INFO] Serveur --> BYE
+2025-12-08 12:17:57 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:20:02 [INFO] Client connecté
+2025-12-08 12:20:02 [INFO] HI <-- Client 
+2025-12-08 12:20:02 [INFO] Serveur --> HI 27
+2025-12-08 12:20:02 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 12:20:02 [INFO] Serveur --> 16
+2025-12-08 12:20:02 [INFO] INFO:LH9101 RES00004 <-- Client
+2025-12-08 12:20:02 [INFO] Serveur --> 25
+2025-12-08 12:20:02 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 12:20:02 [INFO] Serveur --> 270
+2025-12-08 12:20:02 [INFO] QUIT <-- Client 
+2025-12-08 12:20:02 [INFO] Serveur --> BYE
+2025-12-08 12:20:02 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:20:25 [INFO] Client connecté
+2025-12-08 12:20:25 [INFO] HI <-- Client 
+2025-12-08 12:20:25 [INFO] Serveur --> HI 27
+2025-12-08 12:20:25 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 12:20:25 [INFO] Serveur --> 16
+2025-12-08 12:20:25 [INFO] INFO:LH9101 RES00004 <-- Client
+2025-12-08 12:20:25 [INFO] Serveur --> 25
+2025-12-08 12:20:25 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 12:20:25 [SEVERE] ERREUR PHASE 3 : Une reservation ayant déjà embarqué  n'est pas un argument valide !
+2025-12-08 12:20:25 [INFO] Serveur --> BYE 77
+2025-12-08 12:20:25 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:21:06 [INFO] Client connecté
+2025-12-08 12:21:06 [INFO] HI <-- Client 
+2025-12-08 12:21:06 [INFO] Serveur --> HI 27
+2025-12-08 12:21:06 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 12:21:06 [INFO] Serveur --> 16
+2025-12-08 12:21:06 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 12:21:06 [INFO] Serveur --> 25
+2025-12-08 12:21:06 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 12:21:06 [SEVERE] ERREUR PHASE 3 : Une reservation ayant déjà embarqué  n'est pas un argument valide !
+2025-12-08 12:21:06 [INFO] Serveur --> BYE 77
+2025-12-08 12:21:06 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:21:31 [INFO] Client connecté
+2025-12-08 12:21:31 [INFO] HI <-- Client 
+2025-12-08 12:21:31 [INFO] Serveur --> HI 27
+2025-12-08 12:21:31 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 12:21:31 [INFO] Serveur --> 16
+2025-12-08 12:21:31 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 12:21:31 [INFO] Serveur --> 25
+2025-12-08 12:21:31 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 12:21:31 [INFO] Serveur --> 270
+2025-12-08 12:21:31 [INFO] QUIT <-- Client 
+2025-12-08 12:21:31 [INFO] Serveur --> BYE
+2025-12-08 12:21:31 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:28:20 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:28:55 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:28:57 [INFO] Client connecté
+2025-12-08 12:28:57 [INFO] HI <-- Client 
+2025-12-08 12:28:57 [INFO] Serveur --> HI 27
+2025-12-08 12:28:57 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 12:28:57 [INFO] Serveur --> 16
+2025-12-08 12:28:57 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 12:28:57 [INFO] Serveur --> 25
+2025-12-08 12:28:57 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 12:28:57 [INFO] Serveur --> 270
+2025-12-08 12:28:57 [INFO] QUIT <-- Client 
+2025-12-08 12:28:57 [INFO] Serveur --> BYE
+2025-12-08 12:28:57 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:34:27 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:34:50 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:36:26 [INFO] Client connecté
+2025-12-08 12:36:42 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-12-08 12:38:07 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:38:39 [INFO] Client connecté
+2025-12-08 12:38:49 [SEVERE] ERREUR PHASE 0  : Le client a pris trop de temps à répondre.
+2025-12-08 12:38:49 [INFO] Serveur --> BYE 17
+2025-12-08 12:38:49 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:41:09 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:41:18 [INFO] Client connecté
+2025-12-08 12:41:28 [INFO] HI <-- Client 
+2025-12-08 12:41:28 [INFO] Serveur --> HI 27
+2025-12-08 12:41:33 [INFO] UHEZD <-- Client 
+2025-12-08 12:41:33 [SEVERE] ERREUR PHASE 1 : UHEZD n'est pas un argument valide !
+2025-12-08 12:41:33 [INFO] Serveur --> BYE 77
+2025-12-08 12:41:33 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 12:42:08 [INFO] Client connecté
+2025-12-08 12:42:13 [SEVERE] ERREUR PHASE 0 : Un message de taille superieur à 20 n'est pas un argument valide !
+2025-12-08 12:42:13 [INFO] Serveur --> BYE 77
+2025-12-08 12:42:13 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 13:24:37 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 13:25:31 [WARNING] Port occupé ou indisponible, utilisation du port par défaut . . .
+2025-12-08 19:32:02 [INFO] ----- Nouvelle session de connexion -----
+2025-12-08 19:32:11 [INFO] Client connecté
+2025-12-08 19:32:11 [INFO] HI <-- Client 
+2025-12-08 19:32:11 [INFO] Serveur --> HI 27
+2025-12-08 19:32:11 [INFO] WANT:scan SCAN000004 <-- Client 
+2025-12-08 19:32:11 [INFO] Serveur --> 16
+2025-12-08 19:32:11 [INFO] INFO:LH9101 RES00003 <-- Client
+2025-12-08 19:32:11 [INFO] Serveur --> 25
+2025-12-08 19:32:11 [INFO] PASS:PASS00000003 <-- Client
+2025-12-08 19:32:11 [INFO] Serveur --> 270
+2025-12-08 19:32:11 [INFO] QUIT <-- Client 
+2025-12-08 19:32:11 [INFO] Serveur --> BYE
+2025-12-08 19:32:11 [INFO] ----- Nouvelle session de connexion -----
