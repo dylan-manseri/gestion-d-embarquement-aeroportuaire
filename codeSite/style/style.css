@@ -1,0 +1,363 @@
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--background-color);
+  color: black;
+  margin: 0;
+  padding: 0;
+  line-height: 1.7;
+}
+
+header {
+  font-family: 'Inter', sans-serif;
+  position: sticky;
+  top:0;
+  width: 100%;
+  height: 70px;
+  background-color: #ffffff;
+  color: white;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  padding: 0px 20px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+}
+
+nav{
+  display: flex;
+  justify-content: center;
+}
+
+nav ul {
+  display: flex;
+  gap: 40px;
+  padding: 0;
+  margin: 0;
+  align-items: center;
+}
+
+nav li {
+  display: flex;
+  margin: 0 15px;
+  align-items: center;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #000000;
+  transition: 0.3s;
+  margin: 0 auto;
+}
+
+nav ul li a:hover {
+  color: #000d54;
+
+}
+.select-nav {
+  position: relative;
+  display: inline-block;
+
+}
+
+.style-toggle{
+  margin-left: 70px;
+  display: flex;
+  gap: 0;
+  width: 310px;
+}
+
+.select-nav-cookie {
+  text-decoration: none;
+  color: #000000;
+  transition: 0.3s;
+  display: inline-block;
+  margin-left: 90px;
+  margin-top: 5px;
+
+}
+
+.select-nav-cookie::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 2px;
+  background-color: #315b7f;
+  transition: width 0.4s ease;
+}
+
+.select-nav::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0;
+  height: 2px;
+  background-color: #315b7f;
+  transition: width 0.4s ease;
+}
+
+.select-nav:hover::after {
+  width: 70%;
+}
+.nav-container {
+  display: flex;
+  align-items: center;
+}
+
+.menu-deroulant{
+  position: relative;
+}
+
+.choice-list{
+  display: none;
+  position: absolute;
+  text-align: center;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 8px 0;
+  min-width: 360px;
+  height: 290px;
+  z-index: 999;
+}
+
+.menu-deroulant:hover .choice-list {
+  display: block;
+}
+
+.choice-list a {
+  display: inline-flex;
+  justify-content: center;
+  margin-bottom: 15px;
+  color: #000;
+  text-decoration: none;
+  padding: 20px;
+  border-radius: 15px;
+  transition: background 0.2s ease;
+}
+
+.choice-list a:hover{
+  background-color: rgba(223, 235, 236, 0.55);
+}
+
+.logo{
+  display: flex;
+  justify-content: center;
+}
+
+
+.content {
+  margin-top: 100px;
+  padding: 20px;
+}
+
+
+.normalTab th, .normalTab td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+.normalTab th {
+  background: #333;
+  color: white;
+}
+
+.dark-mode{
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: white;
+  background-color: #000000;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  width: 139px;
+  height: 39px;
+}
+.dark-mode:hover {
+  background-color: #4e4e57;
+}
+
+.light-mode{
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: #000000;
+  background-color: #d1d1e0;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  width: 139px;
+  height: 39px;
+}
+.light-mode:hover {
+  background-color: #4e4e57;
+}
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&family=Lora:wght@400;700&family=Playfair+Display:wght@400;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+  font-family: 'Playfair Display', serif;
+}
+#map{
+  position: absolute;
+  height: 90%;
+  width: 100%;
+}
+:root {
+  --primary-color: #2B2D42;
+  --secondary-color: #8D99AE;
+  --background-color: #ececec;
+  --text-color: #27272e;
+  --accent-color: #EF233C;
+  --shadow-color: rgba(0, 0, 0, 0.1);
+}
+a{
+  color: #1864ad;
+  display:block;
+  text-align: center;
+  margin: auto;
+}
+.default-section {
+  width: 80%;
+  margin: 20px auto;
+  text-align: left;
+}
+.h2-presentation{
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  font-weight: 700;
+  text-align:center;
+}
+
+h2 {
+  font-size: 22px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+section {
+  margin: 40px auto;   /* centre horizontalement */
+  max-width: 650px;
+  text-align:center;
+  background: white;
+  padding: 25px 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  line-height: 1.55;
+}
+
+p {
+  font-size: 16px;
+  margin: 8px 0;
+}
+
+strong {
+  font-weight: 600;
+}
+
+/* Style général des champs */
+input[type="text"],
+input[type="number"],
+input[type="password"],
+select {
+  width: 100%;
+  padding: 10px 12px;
+  margin: 6px 0 12px 0;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+  background: #fafafa;
+  transition: 0.2s;
+}
+
+/* Effet focus moderne */
+input:focus,
+select:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 4px rgba(0,123,255,0.35);
+  background: #fff;
+  outline: none;
+}
+
+/* Style des boutons */
+button {
+  padding: 10px 18px;
+  margin: 8px 6px 8px 0;
+  font-size: 15px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+/* Hover sur les boutons */
+button:hover {
+  background: #005fcc;
+}
+
+/* Désactivation éventuelle */
+button:disabled {
+  background: #adadad;
+  cursor: not-allowed;
+}
+
+/* Optionnel : sélecteur plus joli */
+select {
+  appearance: none;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='16' viewBox='0 0 24 24' width='16' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
+  background-size: 16px;
+}
+
+input[type="submit"] {
+  padding: 10px 18px;
+  font-size: 15px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.2s;
+  margin: 6px 0 12px 0;
+}
+
+/* Effet hover */
+input[type="submit"]:hover {
+  background: #005fcc;
+}
+
+/* Désactivé */
+input[type="submit"]:disabled {
+  background: #adadad;
+  cursor: not-allowed;
+}
